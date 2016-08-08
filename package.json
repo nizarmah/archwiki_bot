@@ -1,0 +1,33 @@
+{
+  "name": "archwiki_bot",
+  "version": "0.1.0",
+  "description": "ArchWiki Search Bot Demonstrating the use of Inline Mode in Telefam",
+  "main": "bot.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nizarmah/archwiki_bot"
+  },
+  "keywords": [
+    "arch",
+    "arch",
+    "wiki",
+    "bot",
+    "inline",
+    "bot",
+    "telefam",
+    "telegram",
+    "bot",
+    "nodejs",
+    "bot"
+  ],
+  "author": "Nizar Mahmoud <nizar.mah99@gmail.com>",
+  "license": "MIT"
+}
